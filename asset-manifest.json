@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Trabalho_LP2/static/css/main.d221dc40.css",
+    "main.js": "/Trabalho_LP2/static/js/main.01736c04.js",
+    "static/media/pagina404.png": "/Trabalho_LP2/static/media/pagina404.4bf0805d8d55a31c5142.png",
+    "index.html": "/Trabalho_LP2/index.html",
+    "main.d221dc40.css.map": "/Trabalho_LP2/static/css/main.d221dc40.css.map",
+    "main.01736c04.js.map": "/Trabalho_LP2/static/js/main.01736c04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.01736c04.js"
+  ]
+}
